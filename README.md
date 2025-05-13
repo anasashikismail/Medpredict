@@ -38,6 +38,10 @@ Med Predict is a simple Streamlit app designed to demonstrate machine learning i
  5) Shows feature importance and ROC curve for model interpretability.
 
 
+## Live Demo
+
+[🔮 **MedPredict: Explore Machine Learning in Healthcare**](https://medpredictv1.streamlit.app/)
+
 ## 🚀 Run Locally
 
 Make sure you have Python installed.
@@ -47,3 +51,5 @@ git clone https://github.com/yourusername/med-predict.git
 cd med-predict
 pip install requirements.txt
 streamlit run medpredict.py
+
+
